@@ -27,11 +27,11 @@ It provides features for both students and teachers to manage **courses, assignm
 
 ## 🧰 Tech Stack
 
+**Frontend:** React.js  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL  
+**Version Control:** Git & GitHub
 
-**Frontend** : React.js 
-**Backend** : Node.js, Express.js 
-**Database** : MySQL 
-**Version Control** : Git & GitHub
 
 ---
 
